@@ -15,8 +15,16 @@ body{
 #suit{
     display: block;
     margin: 0 auto;
-    font-size: 9rem;
-    text-align: center;
+    font-size: 4rem;
+    text-align: left;
     margin-top: 10px;
 
+}#suitB{
+    display: block;
+    -webkit-transform: rotateX(180deg);
+    transform: rotateX(180deg); 
+    margin: 0 auto;
+    font-size: 4rem;
+    text-align: right;
+    margin-bottom: 10px;
 }
